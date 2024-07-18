@@ -18,6 +18,5 @@ I am an informatics student at Bhayangkara Jakarta Raya University👩‍💻, I
 ## 📫 Contact me
 You can reach me through the contacts below.
 - 💼 LinkedIn: [Gladis Hafifah](https://www.linkedin.com/in/gladishafifah/)
-- 🐦 Instagram: [@ghmalliq.14](https://www.instagram.com/ghmaliq.14/)
 
 Thank you for visiting my profile! Let's build something amazing together.✨
