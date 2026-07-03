@@ -1,8 +1,11 @@
 <h1 align="center">👋 Hi Everyone, I'am Gladis Hafifah!</h1>
 
 ## 🚀 About Me
-Welcome to the world of creative code and technology exploration!\
-Bachelor of Computer Science graduate from Bhayangkara Jakarta Raya University👩‍💻, I have an interest in technology especially data science💻 , I love new challenges and experiments✨🔥🚀
+Welcome to my GitHub profile!\
+
+I am a Bachelor of Computer Science graduate from Bhayangkara Jakarta Raya University with a strong interest in Data Science, Machine Learning, and Software Development. I enjoy exploring new technologies, solving real-world problems through data, and continuously expanding my technical skills.\
+
+I believe that every challenge is an opportunity to learn, grow, and create impactful solutions. I'm always excited to experiment with new ideas and collaborate on meaningful projects.
 
 
 ## 🛠️ Languages and Tools
@@ -13,7 +16,7 @@ Bachelor of Computer Science graduate from Bhayangkara Jakarta Raya University�
 
 ## 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=gladishafifah&show_icons=true&theme=algolia&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gladishafifah&theme=algolia)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gladishafifah&layout=compact&theme=algolia)
     
 ## 📫 Contact me
 You can reach me through the contacts below.
