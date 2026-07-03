@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 Welcome to the world of creative code and technology exploration!\
-I am an informatics student at Bhayangkara Jakarta Raya University👩‍💻, I have an interest in technology especially data science💻 , I love new challenges and experiments✨🔥🚀
+Bachelor of Computer Science graduate from Bhayangkara Jakarta Raya University👩‍💻, I have an interest in technology especially data science💻 , I love new challenges and experiments✨🔥🚀
 
 
 ## 🛠️ Languages and Tools
