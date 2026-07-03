@@ -16,7 +16,7 @@ I believe that every challenge is an opportunity to learn, grow, and create impa
 
 ## 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=gladishafifah&show_icons=true&theme=algolia&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gladishafifah&layout=compact&theme=algolia&hide_border=true)
+![Top Languages]![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gladishafifah&layout=compact&theme=algolia)
     
 ## 📫 Contact me
 You can reach me through the contacts below.
